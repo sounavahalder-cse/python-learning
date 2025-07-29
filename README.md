@@ -11,4 +11,4 @@ This repo is my daily Python learning journal using YouTube.
 - File Handling
 - Mini Projects
 
-## 🗓️ Start Date: July,2025
+## 🗓️ Start:2025
